@@ -1,4 +1,5 @@
 # meta developer: @Ne_TegayMenya
+# uploaded to github by @zqhix
 
 from telethon import types 
 from .. import loader, utils 
